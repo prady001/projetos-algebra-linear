@@ -230,15 +230,4 @@ Este projeto foi desenvolvido para fins educacionais no curso de Álgebra Linear
 
 ## Autores
 
-Grupo de Álgebra Linear - Insper
-
-## Vídeo Explicativo
-
-[Link para o vídeo explicativo será adicionado aqui]
-
-O vídeo explica:
-- A matemática por trás do jogo (vetores, física)
-- Como funciona o modelo físico implementado
-- Demonstração do gameplay
-- Identidade visual do jogo
-- Sistema de níveis e power-ups
+Gabriel Pradyumna
